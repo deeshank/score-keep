@@ -92,4 +92,5 @@ typings/
 
 .idea
 .idea/*.*
+.meteor
 .meteor/*.*
